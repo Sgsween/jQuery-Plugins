@@ -1,5 +1,6 @@
 jQuery-Plugins
 ==============
 
-<b>Sniff:<b><br/>
+<h2>Sniff:</h2>
+<br/>
 jQuery Plugin to get browser and version
