@@ -33,6 +33,11 @@
                     browser.browser = "undetected";
                     browser.version = "0";
                 }
+                
+                var dm = document.documentMode;
+                if (dm != null) {
+                    browser.documentMode = dm;
+                }
                 return browser;
             }
         },
